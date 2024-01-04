@@ -1,2 +1,4 @@
-# Walmart_Sales_Analysis
-Explore insights into Walmart Sales through SQL queries for revenue, profit, and gross margin in this GitHub repository. 
+# **Walmart Sales Data Analysis**
+
+
+**This project explores Walmart's sales data to analyze successful branches, product trends, and customer behavior. The objective is to refine sales strategies by optimizing performance, leveraging historical data from 45 stores, each with multiple departments. The dataset, which incorporates holiday markdown events, presents a challenge in predicting their impact on departmental sales.**
